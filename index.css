@@ -56,9 +56,73 @@ margin-top: 50px;
     
 }
 
+.Most{
+    height: 900px;
+    text-align: center;
+    padding: 50px;
+    padding-top: 50px;
+    
+}
+.rare{
+    font-size: 40px;
+    padding: 20px;
+}
+
+.par{
+    color: #111010;
+    font-style: italic;
+    padding-bottom: 50px
+    
+    
+}
+
+.name2{
+    
+    padding: 10px;
+    text-decoration: underline;
+  
+    
+}
+
+
+
+
+.forflex{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.img12{
+
+    width: 400px;
+    height: 400px;
+    flex-shrink: 0;
+    margin-top: 135px;
+    margin-left: 0px;
+    margin-left: 40px;
+
+
+}
+
+.img11{
+   
+   border-radius: 50px;
+    width: 380px;
+    height: 520px;
+    flex-shrink: 0;
+    margin-top: 18px;
+    margin-left: 0px;
+    margin-right: 50px;
+
+
+}
+
 .background2{
     height: 1100px;
-   margin: 50px;
+   margin: px;
     background-color: rgba(78, 159, 163, 0.15);
      ;
 }
@@ -79,6 +143,11 @@ color:  rgba(0, 0, 0, 0.6);
 font-size: 18px;
 
 
+}
+.par{
+    color: black;
+    font-size: 18px;
+    padding-bottom: 80px;
 }
 
 
