@@ -20,6 +20,7 @@ body , section{
     justify-content: center;
     align-items: center;
     justify-content: space-around;
+    border: 2px solid black;
     padding: 0px 240px;
 
 }
@@ -39,7 +40,7 @@ margin-top: 50px;
 }
 .heading2{
     color:  rgba(39, 39, 39, 0.60);
-    font-size: 25px;
+    font-size: 18px;
     padding: 32px 0px;   
 }
 
@@ -51,11 +52,12 @@ margin-top: 50px;
     font-size: 20px;
     border-radius: 8px;
     border: 0px;
+    cursor: pointer;
     
 }
 
 .background2{
-    height: 2000px;
+    height: 1100px;
    margin: 50px;
     background-color: rgba(78, 159, 163, 0.15);
      ;
@@ -68,13 +70,13 @@ margin-top: 50px;
 }
 .heading4{
     padding-top: 100px;
-    font-size: 100px;
+    font-size: 40px;
 }
 
 .heading5{
-padding: 50px;
+padding: 30px;
 color:  rgba(0, 0, 0, 0.6);
-font-size: 27px;
+font-size: 18px;
 
 
 }
@@ -85,21 +87,21 @@ font-size: 27px;
  display: flex;
  justify-content: center;
  margin-left: 100px;
- margin-top: 80px;
+ margin-top: 50px;
 } 
 
 .box1{ 
  background-color:rgba(56, 82, 30, 0.15);
  box-shadow: 0px 10px 20px rgb(88, 68, 72);
     text-align: center;  
-width: 465px;
-height: 538px;
+width: 200px;
+height: 300px;
 align-items: center;
 justify-content: center;
 border-radius:   20px   ;
 margin-right: 70px;
 border: 1px rgb(80, 49, 49) solid;   
-border-radius: 00px 0px 30px 30px 
+border-radius: 00px 0px 10px 10px 
 
 
 
@@ -108,15 +110,15 @@ border-radius: 00px 0px 30px 30px
 .box2{
     align-items: center;
    
-    width: 465px;
-    height: 390px;   
+    width: 200px;
+    height: 200px;   
     background-size: cover;
     
   
 }
 .flw1{
   background-size: con;
-  width: 465px;
+  width: 300px;
   align-items: center;
   
 }
@@ -124,12 +126,12 @@ border-radius: 00px 0px 30px 30px
 .name{
    
     margin-top: 5px;
-    font-size: 35px;
+    font-size: 20px;
     padding-top: 7px;
     color: rgb(19, 66, 37);
 }
 .price{
-    font-size: 30px;
+    font-size: 20px;
     padding: 5px;
 }
 .btn{
@@ -143,7 +145,7 @@ border-radius: 00px 0px 30px 30px
 
     font-size: 20px;
     width: 150px;
-padding:20px 50px;
+
 border-radius: 10px;
 margin-right: 20px
 
@@ -152,11 +154,12 @@ margin-right: 20px
 
 .btn2{
     color: aliceblue;
-width: 250px;
-padding:20px 50px;
-border-radius: 15px;
+width: 120px;
+
+padding: 5px 5px;
+border-radius: 8px;
 margin-right: 20px;
-font-size: 22px;
+font-size: 14px;
 background-color: rgba(229, 84, 115, 1) ;
 cursor: pointer;
 }
@@ -171,7 +174,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 justify-content: space-between;
-padding: 0px 1300px;
+padding: 0px 450px;
 text-align: center;
 
     
@@ -201,25 +204,25 @@ padding:15px;
 border: 0px;
 }
 .heading8{
-  margin-top: 200px;
+  margin-top: 100px;
    color: #272727;
 text-align: center;
 
-font-size: 70px;
+font-size: 40px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
 }
 
 .heading9{
-    margin-top: 20px;
+    margin-top: 10px;
     color: rgba(39, 39, 39, 0.60);
 text-align: center;
 
-font-size: 40px;
+font-size: 20px;
 font-style: normal;
 font-weight: 400;
-line-height: 60px;
+line-height: 30px;
 }
 .background4
 {
@@ -228,20 +231,26 @@ line-height: 60px;
     display: flex;
 
     justify-content: center;
-    padding: 100px;
+    padding: 60px;
     height: 500px 
     
 }
 .box3{
     padding: 20px;
+    align-items: center;
+   
+    width: 300px;
+    height: 300px;   
+    background-size: cover;
    
 
 }
 
 .background5{
 background-image: url("pic/Rectangle\ 9.png");
-height: 500px;
-margin:  0px 800px;
+height: 449px;
+width: 1440;
+margin:  0px 320px;
 background-position:center ;
 background-repeat: no-repeat;
 border: 1px black solid;
@@ -250,11 +259,11 @@ background-size: cover;
 
 }
 .heading10{
-    margin-top :170px ;
+    margin-top :100px ;
     color: #272727;
     text-align: center;
     
-    font-size: 60px;
+    font-size: 40px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;  
